@@ -3,6 +3,9 @@
 W koñcu coœ na rzeczy
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e253e8c6d458ad5331e0feda185d3d3b1f4fa8c7
 =======
 >>>>>>> e253e8c6d458ad5331e0feda185d3d3b1f4fa8c7
 coœ siê dzieje
@@ -60,8 +63,11 @@ u¿ po powrocie do kraju Sikorski przyzna³, ¿e by³y to trudne negocjacje. - Tekst
 1asdfadsca
 >>>>>>> parent of d9b38f9... ta
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 coœ siê dzieje
 >>>>>>> parent of 35fce98... ta
+=======
+>>>>>>> e253e8c6d458ad5331e0feda185d3d3b1f4fa8c7
 =======
 >>>>>>> e253e8c6d458ad5331e0feda185d3d3b1f4fa8c7
